@@ -16,8 +16,8 @@
 <?php if($block == 'list_product'){ ?>
     <?php include 'list_product/index.php'; ?>
 <?php }?>
-<?php else if($block == 'single_product') { ?>
-<?php include 'single_product/index.php'; ?>
+<?php else if($block == 'news') { ?>
+<?php include 'news/index.php'; ?>
 <?php } ?>
 <!-- Страницы --!>
 
