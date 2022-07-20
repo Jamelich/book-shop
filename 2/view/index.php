@@ -13,10 +13,10 @@
 <?php include 'menu.php'; ?>
 
 <!-- Страницы --!>
-<?php if($page == 'list_product'){ ?>
+<?php if($block == 'list_product'){ ?>
     <?php include 'list_product/index.php'; ?>
 <?php }?>
-<?php else if($page == 'single_product') { ?>
+<?php else if($block == 'single_product') { ?>
 <?php include 'single_product/index.php'; ?>
 <?php } ?>
 <!-- Страницы --!>
