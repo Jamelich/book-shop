@@ -88,7 +88,7 @@ CREATE TABLE `products` (
 CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `name` text NOT NULL,
-  `e-mail` text NOT NULL,
+  `email` text NOT NULL,
   `login` text NOT NULL,
   `password` text NOT NULL,
   `status` int(11) NOT NULL,

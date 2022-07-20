@@ -1,0 +1,15 @@
+1. Сделать PRIMARY KEY + AUTO INCREMENT
+2. Наименования
+
+id_category, parent_id
+
+category_id, parent_id
+id,
+
+3. Куда добавить user_id в order_info
+4. Переименовать 'e-mail'
+
+Аккауратнее с ключевыми полями desc, order, index
+
+Домашнее задание
+1. Изменить код так, чтобы прогружалась главная страничка по умолчанию
