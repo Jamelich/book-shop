@@ -10,4 +10,5 @@ elseif ($uri === '/about')
 else
     $file = 'controllers/404.php';
 
+require 'config.php';
 require $file;
