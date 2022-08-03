@@ -1,3 +1,3 @@
 <?php
-require 'models/list_products.php';
+require 'models/db.php';
 require 'views/homepage.php';
