@@ -29,11 +29,6 @@ class DB
         } catch (PDOException $e) {
             die($e->getMessage());
         }
-        // return $array_products;
-        // var_dump($array_products);
-        // echo 'ok<br>';
-        // return $this->dbh;
-
     }
 
     public $array_products;
